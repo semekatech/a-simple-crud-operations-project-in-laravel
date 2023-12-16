@@ -38,16 +38,16 @@ A form for editing product details
 A product delete confirmation message
 ![Screenshot](screenshots/delete.PNG)
 
-## Roles Page
-Roles page 
+## Roles and Permission Page
+Roles and permissions page 
 ![Screenshot](screenshots/roles.PNG)
 
 ## Add Roles Page
-A form for adding Roles
+A form for adding Roles and assigning permissions
 ![Screenshot](screenshots/add-role.PNG)
 
 ## Editing Roles
-Form for Editing roles 
+Form for Editing roles and permissions
 ![Screenshot](screenshots/edit_role.PNG)
 
 ## Manage Staff
