@@ -1,51 +1,61 @@
-# A simple products management system in Laravel project to show case use of REST API,Authentication and CRUD Operations.
+# A Products Management System.
+A comprehensive product management system built with Laravel, showcasing REST API implementation, user authentication, role-based access control, and CRUD operations.
+
+## Introduction
+This project aims to provide a user-friendly and feature-rich product management system. It includes functionalities for adding, editing, and deleting products, managing roles, and handling staff users. The system is built with Laravel, mysql database and bootstrap backend ensuring a robust and scalable solution.
+
+## Installation
+Clone the repository.
+import the database included in the parent folder
+Configure your environment variables.
+## Usage
+Run the application: php artisan serve.
+Access the system at http://localhost:8000.
+
+## Sample Pages
 
 ## Dashboard Page
-Dashboard showing products and staff count
+Dashboard page showing products and staff count
 ![Screenshot](screenshots/dashboard.PNG)
 
 ## Add Products Page
-A form for adding a new products
+A form for adding new products
 ![Screenshot](screenshots/add-products.PNG)
 
 ## Validation Rules in JS 
-A message showing that product name cannot be null
+A sample javascript validation message showing that product name cannot be null
 ![Screenshot](screenshots/validations.PNG)
 
 ## Products Page
-A products management page with edit and delete
+A products management page with edit and delete options
 ![Screenshot](screenshots/products.PNG)
 
 ## Edit Products Page
-An edit product form
+A form for editing product details
 ![Screenshot](screenshots/editproduct.PNG)
 
 ## A Product delete confirmation Page
-A delete confirmation message
-![Screenshot](screenshots/add-products.PNG)
-
-## A Product delete confirmation Page
-A delete confirmation message
+A product delete confirmation message
 ![Screenshot](screenshots/delete.PNG)
 
 ## Roles Page
-Roles page
+Roles page 
 ![Screenshot](screenshots/roles.PNG)
 
 ## Add Roles Page
-Add Roles page
+A form for adding Roles
 ![Screenshot](screenshots/add-role.PNG)
 
-## Edit Roles Page
-Edit roles 
-![Screenshot](screenshots/edit-role.PNG)
+## Editing Roles
+Form for Editing roles 
+![Screenshot](screenshots/edit_role.PNG)
 
 ## Manage Staff
-manage staff
+Staff management page
 ![Screenshot](screenshots/manage-staff.PNG)
 
 ## Add new Staff
-add staff
+A form for adding a new staff
 ![Screenshot](screenshots/add-staff.PNG)
 ## Logout
 logout form
