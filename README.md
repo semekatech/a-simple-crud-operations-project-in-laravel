@@ -11,7 +11,11 @@ Configure your environment variables.
 ## Usage
 Run the application: php artisan serve.
 Access the system at http://localhost:8000.
-
+## Test Credentials:
+Admin
+Username: admin@admin.com
+Password: 123456
+For new created staffs,default password is:123456
 ## Sample Pages
 
 ## Dashboard Page
